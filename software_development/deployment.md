@@ -1,0 +1,6 @@
+##### Decentralized self-owned deployment pipeline
+*29-01-2015* In the systems I have worked with to this date, the release responsibility was completely centralized and owned by the system owners. Teams working on this system were highly dependant on this team for their features to get released. This was really the only viable option due to the pretty monolythic nature of the system. Even though all teams working with this system had their own repositories, all code was then put together in a big release tar ball which was then released.
+
+No matter how hard the system owner tried to do a great job at being efficient and quick with releasing, I always felt that this dependency towards them affected our productivity and the smoothness of our process.
+
+I believe (have not experienced it yet) that a team should fully own a few small services and have the freedom and the responsibility of the deployment pipelines for those services. I hope to experience it some day and confirm that it works better.
