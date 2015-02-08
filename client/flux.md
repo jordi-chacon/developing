@@ -39,3 +39,6 @@ The dispatcher exposes a method that allows us to trigger a dispatch to the stor
 
 Actions may also come from other places, such as the server. This happens, for example, during data initialization. It may also happen when the server returns an error code or when the server has updates to provide to the application.
 
+<br />
+#### Resources
+http://blog.andrewray.me/flux-for-stupid-people/
