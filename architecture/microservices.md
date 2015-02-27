@@ -160,3 +160,6 @@ http://203.softover.com/2014/12/01/ultra-srevices-and-declaration-of-independenc
 http://contino.co.uk/microservices-not-a-free-lunch/
 http://capgemini.github.io/architecture/microservices-reality-check/
 http://www.infoq.com/articles/microservices-intro
+http://www.reactivemanifesto.org/
+https://github.com/cer/event-sourcing-examples/wiki/WhyEventSourcing
+http://queue.acm.org/detail.cfm?id=1394128
