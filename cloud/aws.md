@@ -160,4 +160,5 @@ across multiple AZ.
 
 <br />
 ## Resources
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/awsgsg-intro.pdf
 https://www.airpair.com/aws/posts/building-a-scalable-web-app-on-amazon-web-services-p1
